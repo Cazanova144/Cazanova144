@@ -2,9 +2,13 @@
 
 <img src="https://cdn.chris.schalenborgh.be/wp-content/uploads/2012/02/helloworld.jpeg" width="100%">
 
+<img src="https://media-exp1.licdn.com/dms/image/C4D03AQELxVRyJqsD7g/profile-displayphoto-shrink_400_400/0/1638187264444?e=1657152000&v=beta&t=_3oRSe2FMae7NkrS4EuMNB1_ogDd5RWopVWu4uTGXP4" align="right" width="30%" style="border-radius:50%">
+
 # Cazpian Levén
 
 Hi! My name is Cazpian and I'm an aspiring Front End Developer studying in Malmö. I'm currently looking for an apprenticeship for autumn. If you're interested, please contact me below on the section "Contact info"
+
+<img src="Assets/Images/Black square.png">
 
 ## Skills and Experience
 
