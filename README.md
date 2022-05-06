@@ -29,6 +29,6 @@ Hi! My name is Cazpian and I'm an aspiring Front End Developer studying in Malm�
 ## Contact info
 
 [<img src='https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg' alt='gmail' height='40'>](mailto:cazpians@gmail.com) 
-[<img src='https://bavariabil.se/Static/icons/linkedin.svg' alt='linkedin' height='50'>](https://www.linkedin.com/in/cazpian-levén-front-end/) 
+[<img src='https://bavariabil.se/Static/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cazpian-levén-front-end/) 
 
 ![](https://komarev.com/ghpvc/?username=Cazanova144&style=for-the-badge&color=red)
