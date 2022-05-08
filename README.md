@@ -21,7 +21,7 @@ Hi! My name is Cazpian and I'm an aspiring Front End Developer studying in Malm√
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Creative_Cloud.svg" height="30">
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Cazanova144&show_icons=true&theme=synthwave" width="48%">
+<p><img src="https://github-readme-stats.vercel.app/api?username=Cazanova144&show_icons=true&theme=synthwave" width="49%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazanova144&layout=compact&theme=synthwave" width="48%" align="right"> </p>
 
 (Note: The statistics shown only shows my public activity, and not my overall coding experience)
